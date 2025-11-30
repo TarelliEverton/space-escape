@@ -128,7 +128,7 @@ space-escape/
 
 👨‍🏫 Autor
 
-**Prof. Filipo Novo Mor**
+**Everton Tarelli**
 - GitHub: [@TarelliEverton](https://github.com/TarelliEverton)
 
 ## 📄 Licença
