@@ -45,7 +45,7 @@ pip install pygame
 
 3. **Execute o jogo:**
 ```bash
-python space_escape.py
+python spaceScape.py
 ```
 
 🕹️ Controles
