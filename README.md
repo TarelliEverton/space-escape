@@ -6,7 +6,23 @@ Um jogo estilo arcade desenvolvido em Python com Pygame onde você deve desviar 
 Este jogo foi desenvolvido como Trabalho Final da disciplina de Algoritmos e Programação ministrada pelo professor @ProfessorFilipo.
 O professor nos forneceu uma versão base simplificada do jogo e uma lista de tarefas/melhorias que deveríamos implementar para demonstrar os conhecimentos adquiridos durante a disciplina.
 
+Funcionalidades Implementadas (Tarefas do Trabalho)
+A partir da versão inicial, foram adicionadas as seguintes melhorias:
 
+✅ Tela inicial estilo Arcade "Insert Coin"
+✅ Adicinar 3 fases com 3 niveis de dificultade
+✅ fazer com que a imagem de fundo mude conforme muda a dificuldade ou
+fase do jogo
+✅ Sistema de trilha sonora por fase (músicas diferentes para cada fase)
+✅ Opção multiplayer (tecla AWSD E SETAS)
+✅ Campeonato multiplaer com tela de vitória
+✅ Opção jogar com o mouse
+✅ Meteoro especial (Estrela de Nêutrons) que causa -2 vidas
+✅ Meteoro Coração que concede +2 vidas
+✅ Buraco Negro (teleporte + invencibilidade temporária)
+✅ Sistema de tiros para destruir meteoros
+✅ Tela de vitória para modo Multiplayer
+✅ Tela de fim de jogo com animações
 
 🎮 Como Jogar
 
